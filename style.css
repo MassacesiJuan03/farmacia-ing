@@ -720,3 +720,13 @@ h1,h2,h3,h4,h5,h6 {
     height: 740px;
   }
 }
+
+.main-logo img {
+  max-height: 100px; /* Ajusta el tamaño según sea necesario */
+  width: auto; /* Mantiene la proporción de la imagen */
+}
+
+footer .footer-menu img {
+  max-width: 150px; /* Ajusta el ancho máximo */
+  height: auto; /* Mantiene la proporción de la imagen */
+}
